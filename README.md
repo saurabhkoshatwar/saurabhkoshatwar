@@ -10,7 +10,7 @@ I'm a Software Developer/DevOps engineer, Data Science Enthusiast and a Bot Hobb
 </a>
 </p>
  
-### My ML Cheetsheet
+### My ML Cheat-sheet
 
 Here is all you need to get started with Machine Learning from scratch, including sample assignments, data sets and references!
 
