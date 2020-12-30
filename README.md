@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hello, World! Saurabh Koshatwar here. <img src="images/wave.gif" width="30px">
+
+I'm a Software Developer at a renowned FinTech company [‘CLSA Technology & Services LLP’](https://clsa.com) , Data Science Enthusiast and a Bot Hobbyist.
 
 <!--
 **saurabhkoshatwar/saurabhkoshatwar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
