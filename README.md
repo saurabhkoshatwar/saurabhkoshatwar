@@ -14,10 +14,12 @@ I'm a Software Developer/DevOps engineer, Data Science Enthusiast and a Bot Hobb
 
 Here is all you need to get started with Machine Learning from scratch, including sample assignments, data sets and references!
 
+<br>
+
  ---
  
  <p>
- <a href="https://github.com/saurabhkoshatwar/ML-Assignments">
+ <a href="https://github.com/saurabhkoshatwar/Intelligent-Home-Assistant">
   <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=saurabhkoshatwar&repo=Intelligent-Home-Assistant&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 </p>
@@ -26,6 +28,7 @@ Here is all you need to get started with Machine Learning from scratch, includin
 
 It is a new generation smart AI-driven IoT based project that allows you to control your home appliances using Google Assistant.
 
+<br>
  ---
 
 <!--
