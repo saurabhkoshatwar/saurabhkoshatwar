@@ -31,6 +31,19 @@ It is a smart AI-driven IoT based project that allows you to control your home a
 <br>
 
  ---
+ 
+ <p>
+ <a href="https://github.com/saurabhkoshatwar/NSMDA-FinalYearProject">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=saurabhkoshatwar&repo=NSMDA-FinalYearProject&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
+</p>
+ 
+### Neuro-Spine Medical Data Analytics
+
+A system that assists doctors and patients get effective analysis and deeper insights about the issues raised due to poor body posture and also provides a detailed analysis related to various problems occurring at different spinal regions and would also suggest effective remedies to temporarily overcome the pain in the affected regions.
+<br>
+
+ ---
 
 <!--
 **saurabhkoshatwar/saurabhkoshatwar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
