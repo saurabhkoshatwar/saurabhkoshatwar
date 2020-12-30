@@ -29,6 +29,7 @@ Here is all you need to get started with Machine Learning from scratch, includin
 It is a new generation smart AI-driven IoT based project that allows you to control your home appliances using Google Assistant.
 
 <br>
+
  ---
 
 <!--
