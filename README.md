@@ -6,7 +6,7 @@ I'm a Software Developer/DevOps engineer, Data Science Enthusiast and a Bot Hobb
  
  <p>
  <a href="https://github.com/saurabhkoshatwar/ML-Assignments">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=saurabhkoshatwar&repo=ML-Assignments&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=saurabhkoshatwar&repo=ML-Assignments&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 </p>
  
