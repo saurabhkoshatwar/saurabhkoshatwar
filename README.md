@@ -48,7 +48,7 @@ A system that assists doctors and patients get effective analysis and deeper ins
   
  <p>
  <a href="https://github.com/saurabhkoshatwar/addons">
-  <img align="right" src="/images/sig addons.png" />
+  <img align="right" src="/images/sig addons.png" style="width: 419px;height: 100px;margin-top: -11px;" />
 </a>
 </p>
  
