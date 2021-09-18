@@ -2,7 +2,7 @@
 
 I'm a Software Developer, Data Science Enthusiast and a Bot Hobbyist.
 
-Currently I am a graduate student at University of Southern California pursuing masters in Computer Science specializing in Data Science. Actively seeking Summer'22 software engineering/ML Internships.
+Currently I am a graduate student at the University of Southern California pursuing masters in Computer Science specializing in Data Science. Actively seeking Summer'22 software engineering/ML Internships.
 
 Before this, I worked at [‘CLSA Technology & Services LLP’](https://clsa.com) as a software developer for the Fixed income cash commodities and equity derivatives team for 2 years.
 
