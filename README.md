@@ -1,10 +1,10 @@
 ### Hello, World! Saurabh Koshatwar here. <img src="images/wave.gif" width="30px">
 
-I'm a Software Developer/DevOps engineer, Data Science Enthusiast and a Bot Hobbyist.
+I'm a Software Developer, Data Science Enthusiast and a Bot Hobbyist.
 
-Currently I am a graduate student at USC pursuing masters in Computer Science specializing in Data Science. Actively seeking Summer'22 software engineering/ML Internships.
+Currently I am a graduate student at University of Southern California pursuing masters in Computer Science specializing in Data Science. Actively seeking Summer'22 software engineering/ML Internships.
 
-Before this, I worked at ‘CLSA Technology & Services LLP’ as a software developer for the Fixed income cash commodities and equity derivatives team.
+Before this, I worked at [‘CLSA Technology & Services LLP’](https://clsa.com) as a software developer for the Fixed income cash commodities and equity derivatives team for 2 years.
 
 You can find me on <a href="mailto:saurabhkoshatwar1996@gmail.com"><img height="30" src="/images/gmail.png" ></a> or on <a href="https://www.linkedin.com/in/saurabhkoshatwar/"><img height="30" src="/images/linkedin.png"></a>.
 
