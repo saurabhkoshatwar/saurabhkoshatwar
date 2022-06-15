@@ -17,9 +17,10 @@ working on such projects gave me a comprehensive experience of end-to-end ML dev
 
 I enjoy participating in hackathons.
 <ul>
-<li>● I secured 3rd rank in the HackerRank global coding competition.</li>
-<li>● Received a grand prize of £ 250 & pilot grant of £ 10,000 for being 3rd out of 30+ teams across Los Angeles and London in NeuroHack Hackathon 2022.</li>
+<li>I secured 3rd rank in the HackerRank global coding competition.</li>
+<li>Received a grand prize of £ 250 & pilot grant of £ 10,000 for being 3rd out of 30+ teams across Los Angeles and London in NeuroHack Hackathon 2022.</li>
 <ul>
+ 
 You can find me on <a href="mailto:saurabhkoshatwar1996@gmail.com"><img height="30" src="/images/gmail.png" ></a> or on <a href="https://www.linkedin.com/in/saurabhkoshatwar/"><img height="30" src="/images/linkedin.png"></a>.
 
 
@@ -64,6 +65,7 @@ A system that assists doctors and patients get effective analysis and deeper ins
 
 Here is all you need to get started with Machine Learning from scratch, including sample assignments, data sets and references!
 
+<br>
  ---
   
 <!--  <p>
