@@ -1,6 +1,6 @@
 ### Hello, World! Saurabh Koshatwar here. <img src="images/wave.gif" width="30px" height="30px">
 
-I'm a Software Developer, Data Science Enthusiast and a Bot Hobbyist.
+I'm a Software Developer, Machine Learning - Deep Learning Enthusiast and a Bot Hobbyist.
 
 I am a graduate student at the University of Southern California pursuing a master's in Computer Science specializing in Data Science. Actively seeking Summer'22 software engineering/ML Internships.
 
@@ -16,9 +16,10 @@ and VoxelNet: End-to-End Learning for Point Cloud Based 3D Object Detection,
 working on such projects gave me a comprehensive experience of end-to-end ML development and deployment processes. 
 
 I enjoy participating in hackathons.
-● I secured 3rd rank in the HackerRank global coding competition 
-● Received a grand prize of £ 250 & pilot grant of £ 10,000 for being 3rd out of 30+ teams across Los Angeles and London in NeuroHack Hackathon 2022..
-
+<ul>
+<li>● I secured 3rd rank in the HackerRank global coding competition.</li>
+<li>● Received a grand prize of £ 250 & pilot grant of £ 10,000 for being 3rd out of 30+ teams across Los Angeles and London in NeuroHack Hackathon 2022.</li>
+<ul>
 You can find me on <a href="mailto:saurabhkoshatwar1996@gmail.com"><img height="30" src="/images/gmail.png" ></a> or on <a href="https://www.linkedin.com/in/saurabhkoshatwar/"><img height="30" src="/images/linkedin.png"></a>.
 
 
