@@ -8,19 +8,6 @@ Before this, I worked at [‘CLSA Technology & Services LLP’](https://clsa.com
 
 You can find me on <a href="mailto:saurabhkoshatwar1996@gmail.com"><img height="30" src="/images/gmail.png" ></a> or on <a href="https://www.linkedin.com/in/saurabhkoshatwar/"><img height="30" src="/images/linkedin.png"></a>.
 
- ---
- 
- <p>
- <a href="https://github.com/saurabhkoshatwar/ML-Assignments">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=saurabhkoshatwar&repo=ML-Assignments&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
-</p>
- 
-### My ML Cheat-sheet
-
-Here is all you need to get started with Machine Learning from scratch, including sample assignments, data sets and references!
-
-<br>
 
  ---
  
@@ -51,8 +38,22 @@ A system that assists doctors and patients get effective analysis and deeper ins
 
  ---
  
-  
+
+ 
  <p>
+ <a href="https://github.com/saurabhkoshatwar/ML-Assignments">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=saurabhkoshatwar&repo=ML-Assignments&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
+</p>
+ 
+### My ML Cheat-sheet
+
+Here is all you need to get started with Machine Learning from scratch, including sample assignments, data sets and references!
+
+<br>
+   ---
+  
+<!--  <p>
  <a href="https://github.com/saurabhkoshatwar/addons">
   <img width="419px" height="100px" margin-right="10%" margin-bottom="2%" margin-top="-2%" align="right" src="/images/sig addons.png"  />
 </a>
@@ -62,7 +63,7 @@ A system that assists doctors and patients get effective analysis and deeper ins
 
 I’m currently working on TensorFlow Addons contributions!
 
- ---
+ --- -->
 
 <!--
 **saurabhkoshatwar/saurabhkoshatwar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
