@@ -1,4 +1,4 @@
-### Hello, World! Saurabh Koshatwar here. <img src="images/wave.gif" width="30px">
+### Hello, World! Saurabh Koshatwar here. <img src="images/wave.gif" width="30px" height="30px">
 
 I'm a Software Developer, Data Science Enthusiast and a Bot Hobbyist.
 
