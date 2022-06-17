@@ -42,7 +42,7 @@ It is a smart AI-driven IoT based project that allows you to control your home a
  
  <p>
  <a href="https://github.com/saurabhkoshatwar/NSMDA-FinalYearProject">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=saurabhkoshatwar&repo=NSMDA-FinalYearProject&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=saurabhkoshatwar&repo=Domain-adaptation-deep-learning&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 </p>
  
