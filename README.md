@@ -1,5 +1,5 @@
 ### Hello, World! Saurabh Koshatwar here. <img src="images/wave.gif" width="30px" height="30px">
-
+  <!--
 I'm a Software Developer, Machine Learning - Deep Learning Enthusiast and a Bot Hobbyist.
 
 I am a graduate student at the University of Southern California pursuing a master's in Computer Science specializing in Data Science. Actively seeking Summer'22 software engineering/ML Internships.
@@ -23,7 +23,7 @@ I enjoy participating in hackathons.
  
 You can find me on <a href="mailto:saurabhkoshatwar1996@gmail.com"><img height="30" src="/images/gmail.png" ></a> or on <a href="https://www.linkedin.com/in/saurabhkoshatwar/"><img height="30" src="/images/linkedin.png"></a>.
 
-
+-->
  ---
  
  <p>
@@ -54,13 +54,13 @@ A system that assists doctors and patients get effective analysis and deeper ins
  ---
  
 
- 
+  <!--
  <p>
  <a href="https://github.com/saurabhkoshatwar/ML-Assignments">
   <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=saurabhkoshatwar&repo=ML-Assignments&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 </p>
- <!--
+
 ### My ML Cheat-sheet
 
 Here is all you need to get started with Machine Learning from scratch, including sample assignments, data sets and references!
