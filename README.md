@@ -60,7 +60,7 @@ A system that assists doctors and patients get effective analysis and deeper ins
   <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=saurabhkoshatwar&repo=ML-Assignments&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 </p>
- 
+ <!--
 ### My ML Cheat-sheet
 
 Here is all you need to get started with Machine Learning from scratch, including sample assignments, data sets and references!
@@ -68,7 +68,7 @@ Here is all you need to get started with Machine Learning from scratch, includin
 <br>
  ---
   
-<!--  <p>
+  <p>
  <a href="https://github.com/saurabhkoshatwar/addons">
   <img width="419px" height="100px" margin-right="10%" margin-bottom="2%" margin-top="-2%" align="right" src="/images/sig addons.png"  />
 </a>
